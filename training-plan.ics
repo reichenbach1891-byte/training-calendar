@@ -1,491 +1,744 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-CALSCALE:GREGORIAN
-METHOD:PUBLISH
+PRODID:-//Training Plan//EN
 BEGIN:VEVENT
+UID:20250728@training
+DTSTAMP:20250801T154348Z
+DTSTART;TZID=Europe/Berlin:20250728T180000
+DTEND;TZID=Europe/Berlin:20250728T190000
+SUMMARY:胸肩力量训练（周一）
+DESCRIPTION:动作：卧推（4×6 @ RIR 1–2）、哑铃肩推（3×8）、哑铃侧平举（3×12）、卷腹（3×15）
+目标：增强上肢推力与肩部稳定性
+重点：组间休息60–90秒，训练后拉伸肩胸肌群
+END:VEVENT
+BEGIN:VEVENT
+UID:20250729@training
+DTSTAMP:20250801T154348Z
+DTSTART;TZID=Europe/Berlin:20250729T180000
+DTEND;TZID=Europe/Berlin:20250729T190000
+SUMMARY:节奏跑（周二）
+DESCRIPTION:距离：5–6km；配速：6:45–7:10/km；心率区间：85–90%
+目标：建立比赛节奏、提升乳酸阈值
+注意事项：稳定呼吸，保持略感吃力但可维持状态
+END:VEVENT
+BEGIN:VEVENT
+UID:20250730@training
+DTSTAMP:20250801T154348Z
+DTSTART;TZID=Europe/Berlin:20250730T180000
+DTEND;TZID=Europe/Berlin:20250730T190000
+SUMMARY:主动恢复（周三）
+DESCRIPTION:内容：拉伸、泡沫轴、散步或轻微动态训练
+目标：促进血液循环与神经系统恢复
+注意事项：心率维持在<65%；可配合冥想或深呼吸
+END:VEVENT
+BEGIN:VEVENT
+UID:20250731@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20250731T180000
 DTEND;TZID=Europe/Berlin:20250731T190000
-SUMMARY:力量训练 B（腿部）
-DESCRIPTION:深蹲 4×6\n腿举机 3×10\n小腿提踵 3×15
+SUMMARY:腿部力量训练（周四）
+DESCRIPTION:动作：杠铃深蹲（4×6 @ RIR 1–2）、腿举机（3×10）、硬拉（3×5）、小腿提踵（3×15）
+目标：增强下肢力量与稳定性，为跑步提供动力支持
+重点：训练后静态拉伸，避免第二天延迟性肌肉酸痛
 END:VEVENT
 BEGIN:VEVENT
+UID:20250801@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20250801T180000
 DTEND;TZID=Europe/Berlin:20250801T190000
-SUMMARY:力量训练 C（背部）
-DESCRIPTION:高位下拉 4×6\n杠铃划船 4×8
+SUMMARY:背部力量训练（周五）
+DESCRIPTION:动作：高位下拉（4×6 @ RIR 1–2）、坐姿划船（3×10）、哑铃划船（3×8）、核心卷腹（3×15）
+目标：提升背部肌群与核心稳定，预防跑姿崩溃
+重点：保持肩胛骨收紧，控制动作节奏
 END:VEVENT
 BEGIN:VEVENT
+UID:20250802@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20250802T180000
 DTEND;TZID=Europe/Berlin:20250802T190000
-SUMMARY:完全休息
-DESCRIPTION:
+SUMMARY:完全休息（周六）
+DESCRIPTION:无训练安排
+目标：生理与心理完全恢复
+建议：补充营养、保持良好作息，尽量避免久坐
 END:VEVENT
 BEGIN:VEVENT
+UID:20250803@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20250803T180000
 DTEND;TZID=Europe/Berlin:20250803T190000
-SUMMARY:跑步训练（长距离慢跑）
-DESCRIPTION:长距离慢跑 8–12 km\n配速 7:45–8:15/km\n时间 60–75 分钟
+SUMMARY:LSD长距离慢跑（周日）
+DESCRIPTION:距离：8–12km；配速：7:45–8:15/km；心率区间：65–75%
+目标：构建有氧基础、提升耐力储备
+提示：全程可对话、呼吸轻松，避免冲刺或爬坡
 END:VEVENT
 BEGIN:VEVENT
+UID:20250804@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20250804T180000
 DTEND;TZID=Europe/Berlin:20250804T190000
-SUMMARY:力量训练 A（胸肩）
-DESCRIPTION:卧推 4×6（RIR 1–2）\n哑铃肩推 4×6\n卷腹 3×15\n平板支撑 3×30秒
+SUMMARY:胸肩力量训练（周一）
+DESCRIPTION:动作：卧推（4×6 @ RIR 1–2）、哑铃肩推（3×8）、哑铃侧平举（3×12）、卷腹（3×15）
+目标：增强上肢推力与肩部稳定性
+重点：组间休息60–90秒，训练后拉伸肩胸肌群
 END:VEVENT
 BEGIN:VEVENT
+UID:20250805@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20250805T180000
 DTEND;TZID=Europe/Berlin:20250805T190000
-SUMMARY:跑步训练（节奏跑）
-DESCRIPTION:节奏跑 5–6 km\n配速 6:45–7:10/km\n心率 85–90%
+SUMMARY:节奏跑（周二）
+DESCRIPTION:距离：5–6km；配速：6:45–7:10/km；心率区间：85–90%
+目标：建立比赛节奏、提升乳酸阈值
+注意事项：稳定呼吸，保持略感吃力但可维持状态
 END:VEVENT
 BEGIN:VEVENT
+UID:20250806@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20250806T180000
 DTEND;TZID=Europe/Berlin:20250806T190000
-SUMMARY:主动恢复
-DESCRIPTION:拉伸 + 泡沫轴 15 分钟\n散步 15–20 分钟
+SUMMARY:主动恢复（周三）
+DESCRIPTION:内容：拉伸、泡沫轴、散步或轻微动态训练
+目标：促进血液循环与神经系统恢复
+注意事项：心率维持在<65%；可配合冥想或深呼吸
 END:VEVENT
 BEGIN:VEVENT
+UID:20250807@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20250807T180000
 DTEND;TZID=Europe/Berlin:20250807T190000
-SUMMARY:力量训练 B（腿部）
-DESCRIPTION:深蹲 4×6\n腿举机 3×10\n小腿提踵 3×15
+SUMMARY:腿部力量训练（周四）
+DESCRIPTION:动作：杠铃深蹲（4×6 @ RIR 1–2）、腿举机（3×10）、硬拉（3×5）、小腿提踵（3×15）
+目标：增强下肢力量与稳定性，为跑步提供动力支持
+重点：训练后静态拉伸，避免第二天延迟性肌肉酸痛
 END:VEVENT
 BEGIN:VEVENT
+UID:20250808@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20250808T180000
 DTEND;TZID=Europe/Berlin:20250808T190000
-SUMMARY:力量训练 C（背部）
-DESCRIPTION:高位下拉 4×6\n杠铃划船 4×8
+SUMMARY:背部力量训练（周五）
+DESCRIPTION:动作：高位下拉（4×6 @ RIR 1–2）、坐姿划船（3×10）、哑铃划船（3×8）、核心卷腹（3×15）
+目标：提升背部肌群与核心稳定，预防跑姿崩溃
+重点：保持肩胛骨收紧，控制动作节奏
 END:VEVENT
 BEGIN:VEVENT
+UID:20250809@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20250809T180000
 DTEND;TZID=Europe/Berlin:20250809T190000
-SUMMARY:完全休息
-DESCRIPTION:
+SUMMARY:完全休息（周六）
+DESCRIPTION:无训练安排
+目标：生理与心理完全恢复
+建议：补充营养、保持良好作息，尽量避免久坐
 END:VEVENT
 BEGIN:VEVENT
+UID:20250810@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20250810T180000
 DTEND;TZID=Europe/Berlin:20250810T190000
-SUMMARY:跑步训练（长距离慢跑）
-DESCRIPTION:长距离慢跑 8–12 km\n配速 7:45–8:15/km\n时间 60–75 分钟
+SUMMARY:LSD长距离慢跑（周日）
+DESCRIPTION:距离：8–12km；配速：7:45–8:15/km；心率区间：65–75%
+目标：构建有氧基础、提升耐力储备
+提示：全程可对话、呼吸轻松，避免冲刺或爬坡
 END:VEVENT
 BEGIN:VEVENT
+UID:20250811@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20250811T180000
 DTEND;TZID=Europe/Berlin:20250811T190000
-SUMMARY:力量训练 A（胸肩）
-DESCRIPTION:卧推 4×6（RIR 1–2）\n哑铃肩推 4×6\n卷腹 3×15\n平板支撑 3×30秒
+SUMMARY:胸肩力量训练（周一）
+DESCRIPTION:动作：卧推（4×6 @ RIR 1–2）、哑铃肩推（3×8）、哑铃侧平举（3×12）、卷腹（3×15）
+目标：增强上肢推力与肩部稳定性
+重点：组间休息60–90秒，训练后拉伸肩胸肌群
 END:VEVENT
 BEGIN:VEVENT
+UID:20250812@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20250812T180000
 DTEND;TZID=Europe/Berlin:20250812T190000
-SUMMARY:跑步训练（节奏跑）
-DESCRIPTION:节奏跑 5–6 km\n配速 6:45–7:10/km\n心率 85–90%
+SUMMARY:节奏跑（周二）
+DESCRIPTION:距离：5–6km；配速：6:45–7:10/km；心率区间：85–90%
+目标：建立比赛节奏、提升乳酸阈值
+注意事项：稳定呼吸，保持略感吃力但可维持状态
 END:VEVENT
 BEGIN:VEVENT
+UID:20250813@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20250813T180000
 DTEND;TZID=Europe/Berlin:20250813T190000
-SUMMARY:主动恢复
-DESCRIPTION:拉伸 + 泡沫轴 15 分钟\n散步 15–20 分钟
+SUMMARY:主动恢复（周三）
+DESCRIPTION:内容：拉伸、泡沫轴、散步或轻微动态训练
+目标：促进血液循环与神经系统恢复
+注意事项：心率维持在<65%；可配合冥想或深呼吸
 END:VEVENT
 BEGIN:VEVENT
+UID:20250814@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20250814T180000
 DTEND;TZID=Europe/Berlin:20250814T190000
-SUMMARY:力量训练 B（腿部）
-DESCRIPTION:深蹲 4×6\n腿举机 3×10\n小腿提踵 3×15
+SUMMARY:腿部力量训练（周四）
+DESCRIPTION:动作：杠铃深蹲（4×6 @ RIR 1–2）、腿举机（3×10）、硬拉（3×5）、小腿提踵（3×15）
+目标：增强下肢力量与稳定性，为跑步提供动力支持
+重点：训练后静态拉伸，避免第二天延迟性肌肉酸痛
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20250815T180000
-DTEND;TZID=Europe/Berlin:20250815T190000
-SUMMARY:力量训练 C（背部）
-DESCRIPTION:高位下拉 4×6\n杠铃划船 4×8
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20250816T180000
-DTEND;TZID=Europe/Berlin:20250816T190000
-SUMMARY:完全休息
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20250817T180000
-DTEND;TZID=Europe/Berlin:20250817T190000
-SUMMARY:跑步训练（长距离慢跑）
-DESCRIPTION:长距离慢跑 8–12 km\n配速 7:45–8:15/km\n时间 60–75 分钟
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20250818T180000
-DTEND;TZID=Europe/Berlin:20250818T190000
-SUMMARY:力量训练 A（胸肩）
-DESCRIPTION:卧推 4×6（RIR 1–2）\n哑铃肩推 4×6\n卷腹 3×15\n平板支撑 3×30秒
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20250819T180000
-DTEND;TZID=Europe/Berlin:20250819T190000
-SUMMARY:跑步训练（节奏跑）
-DESCRIPTION:节奏跑 5–6 km\n配速 6:45–7:10/km\n心率 85–90%
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20250820T180000
-DTEND;TZID=Europe/Berlin:20250820T190000
-SUMMARY:主动恢复
-DESCRIPTION:拉伸 + 泡沫轴 15 分钟\n散步 15–20 分钟
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20250821T180000
-DTEND;TZID=Europe/Berlin:20250821T190000
-SUMMARY:力量训练 B（腿部）
-DESCRIPTION:深蹲 4×6\n腿举机 3×10\n小腿提踵 3×15
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20250822T180000
-DTEND;TZID=Europe/Berlin:20250822T190000
-SUMMARY:力量训练 C（背部）
-DESCRIPTION:高位下拉 4×6\n杠铃划船 4×8
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20250823T180000
-DTEND;TZID=Europe/Berlin:20250823T190000
-SUMMARY:完全休息
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20250824T180000
-DTEND;TZID=Europe/Berlin:20250824T190000
-SUMMARY:跑步训练（长距离慢跑）
-DESCRIPTION:长距离慢跑 8–12 km\n配速 7:45–8:15/km\n时间 60–75 分钟
-END:VEVENT
-BEGIN:VEVENT
+UID:20250825@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20250825T180000
 DTEND;TZID=Europe/Berlin:20250825T190000
-SUMMARY:力量训练 A（胸肩）
-DESCRIPTION:卧推 4×6（RIR 1–2）\n哑铃肩推 4×6\n卷腹 3×15\n平板支撑 3×30秒
+SUMMARY:胸肩力量训练（周一）
+DESCRIPTION:动作：卧推（4×6 @ RIR 1–2）、哑铃肩推（3×8）、哑铃侧平举（3×12）、卷腹（3×15）
+目标：增强上肢推力与肩部稳定性
+重点：组间休息60–90秒，训练后拉伸肩胸肌群
 END:VEVENT
 BEGIN:VEVENT
+UID:20250826@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20250826T180000
 DTEND;TZID=Europe/Berlin:20250826T190000
-SUMMARY:跑步训练（节奏跑）
-DESCRIPTION:节奏跑 5–6 km\n配速 6:45–7:10/km\n心率 85–90%
+SUMMARY:节奏跑（周二）
+DESCRIPTION:距离：5–6km；配速：6:45–7:10/km；心率区间：85–90%
+目标：建立比赛节奏、提升乳酸阈值
+注意事项：稳定呼吸，保持略感吃力但可维持状态
 END:VEVENT
 BEGIN:VEVENT
+UID:20250827@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20250827T180000
 DTEND;TZID=Europe/Berlin:20250827T190000
-SUMMARY:主动恢复
-DESCRIPTION:拉伸 + 泡沫轴 15 分钟\n散步 15–20 分钟
+SUMMARY:主动恢复（周三）
+DESCRIPTION:内容：拉伸、泡沫轴、散步或轻微动态训练
+目标：促进血液循环与神经系统恢复
+注意事项：心率维持在<65%；可配合冥想或深呼吸
 END:VEVENT
 BEGIN:VEVENT
+UID:20250828@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20250828T180000
 DTEND;TZID=Europe/Berlin:20250828T190000
-SUMMARY:力量训练 B（腿部）
-DESCRIPTION:深蹲 4×6\n腿举机 3×10\n小腿提踵 3×15
+SUMMARY:腿部力量训练（周四）
+DESCRIPTION:动作：杠铃深蹲（4×6 @ RIR 1–2）、腿举机（3×10）、硬拉（3×5）、小腿提踵（3×15）
+目标：增强下肢力量与稳定性，为跑步提供动力支持
+重点：训练后静态拉伸，避免第二天延迟性肌肉酸痛
 END:VEVENT
 BEGIN:VEVENT
+UID:20250829@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20250829T180000
 DTEND;TZID=Europe/Berlin:20250829T190000
-SUMMARY:力量训练 C（背部）
-DESCRIPTION:高位下拉 4×6\n杠铃划船 4×8
+SUMMARY:背部力量训练（周五）
+DESCRIPTION:动作：高位下拉（4×6 @ RIR 1–2）、坐姿划船（3×10）、哑铃划船（3×8）、核心卷腹（3×15）
+目标：提升背部肌群与核心稳定，预防跑姿崩溃
+重点：保持肩胛骨收紧，控制动作节奏
 END:VEVENT
 BEGIN:VEVENT
+UID:20250830@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20250830T180000
 DTEND;TZID=Europe/Berlin:20250830T190000
-SUMMARY:完全休息
-DESCRIPTION:
+SUMMARY:完全休息（周六）
+DESCRIPTION:无训练安排
+目标：生理与心理完全恢复
+建议：补充营养、保持良好作息，尽量避免久坐
 END:VEVENT
 BEGIN:VEVENT
+UID:20250831@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20250831T180000
 DTEND;TZID=Europe/Berlin:20250831T190000
-SUMMARY:跑步训练（长距离慢跑）
-DESCRIPTION:长距离慢跑 8–12 km\n配速 7:45–8:15/km\n时间 60–75 分钟
+SUMMARY:LSD长距离慢跑（周日）
+DESCRIPTION:距离：8–12km；配速：7:45–8:15/km；心率区间：65–75%
+目标：构建有氧基础、提升耐力储备
+提示：全程可对话、呼吸轻松，避免冲刺或爬坡
 END:VEVENT
 BEGIN:VEVENT
+UID:20250901@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20250901T180000
 DTEND;TZID=Europe/Berlin:20250901T190000
-SUMMARY:力量训练 A（胸肩）
-DESCRIPTION:卧推 4×6（RIR 1–2）\n哑铃肩推 4×6\n卷腹 3×15\n平板支撑 3×30秒
+SUMMARY:胸肩力量训练（周一）
+DESCRIPTION:动作：卧推（4×6 @ RIR 1–2）、哑铃肩推（3×8）、哑铃侧平举（3×12）、卷腹（3×15）
+目标：增强上肢推力与肩部稳定性
+重点：组间休息60–90秒，训练后拉伸肩胸肌群
 END:VEVENT
 BEGIN:VEVENT
+UID:20250902@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20250902T180000
 DTEND;TZID=Europe/Berlin:20250902T190000
-SUMMARY:跑步训练（节奏跑）
-DESCRIPTION:节奏跑 5–6 km\n配速 6:45–7:10/km\n心率 85–90%
+SUMMARY:节奏跑（周二）
+DESCRIPTION:距离：5–6km；配速：6:45–7:10/km；心率区间：85–90%
+目标：建立比赛节奏、提升乳酸阈值
+注意事项：稳定呼吸，保持略感吃力但可维持状态
 END:VEVENT
 BEGIN:VEVENT
+UID:20250903@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20250903T180000
 DTEND;TZID=Europe/Berlin:20250903T190000
-SUMMARY:主动恢复
-DESCRIPTION:拉伸 + 泡沫轴 15 分钟\n散步 15–20 分钟
+SUMMARY:主动恢复（周三）
+DESCRIPTION:内容：拉伸、泡沫轴、散步或轻微动态训练
+目标：促进血液循环与神经系统恢复
+注意事项：心率维持在<65%；可配合冥想或深呼吸
 END:VEVENT
 BEGIN:VEVENT
+UID:20250904@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20250904T180000
 DTEND;TZID=Europe/Berlin:20250904T190000
-SUMMARY:力量训练 B（腿部）
-DESCRIPTION:深蹲 4×6\n腿举机 3×10\n小腿提踵 3×15
+SUMMARY:腿部力量训练（周四）
+DESCRIPTION:动作：杠铃深蹲（4×6 @ RIR 1–2）、腿举机（3×10）、硬拉（3×5）、小腿提踵（3×15）
+目标：增强下肢力量与稳定性，为跑步提供动力支持
+重点：训练后静态拉伸，避免第二天延迟性肌肉酸痛
 END:VEVENT
 BEGIN:VEVENT
+UID:20250905@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20250905T180000
 DTEND;TZID=Europe/Berlin:20250905T190000
-SUMMARY:力量训练 C（背部）
-DESCRIPTION:高位下拉 4×6\n杠铃划船 4×8
+SUMMARY:背部力量训练（周五）
+DESCRIPTION:动作：高位下拉（4×6 @ RIR 1–2）、坐姿划船（3×10）、哑铃划船（3×8）、核心卷腹（3×15）
+目标：提升背部肌群与核心稳定，预防跑姿崩溃
+重点：保持肩胛骨收紧，控制动作节奏
 END:VEVENT
 BEGIN:VEVENT
+UID:20250906@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20250906T180000
 DTEND;TZID=Europe/Berlin:20250906T190000
-SUMMARY:完全休息
-DESCRIPTION:
+SUMMARY:完全休息（周六）
+DESCRIPTION:无训练安排
+目标：生理与心理完全恢复
+建议：补充营养、保持良好作息，尽量避免久坐
 END:VEVENT
 BEGIN:VEVENT
+UID:20250907@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20250907T180000
 DTEND;TZID=Europe/Berlin:20250907T190000
-SUMMARY:跑步训练（长距离慢跑）
-DESCRIPTION:长距离慢跑 8–12 km\n配速 7:45–8:15/km\n时间 60–75 分钟
+SUMMARY:LSD长距离慢跑（周日）
+DESCRIPTION:距离：8–12km；配速：7:45–8:15/km；心率区间：65–75%
+目标：构建有氧基础、提升耐力储备
+提示：全程可对话、呼吸轻松，避免冲刺或爬坡
 END:VEVENT
 BEGIN:VEVENT
+UID:20250908@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20250908T180000
 DTEND;TZID=Europe/Berlin:20250908T190000
-SUMMARY:力量训练 A（胸肩）
-DESCRIPTION:卧推 4×6（RIR 1–2）\n哑铃肩推 4×6\n卷腹 3×15\n平板支撑 3×30秒
+SUMMARY:胸肩力量训练（周一）
+DESCRIPTION:动作：卧推（4×6 @ RIR 1–2）、哑铃肩推（3×8）、哑铃侧平举（3×12）、卷腹（3×15）
+目标：增强上肢推力与肩部稳定性
+重点：组间休息60–90秒，训练后拉伸肩胸肌群
 END:VEVENT
 BEGIN:VEVENT
+UID:20250909@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20250909T180000
 DTEND;TZID=Europe/Berlin:20250909T190000
-SUMMARY:跑步训练（节奏跑）
-DESCRIPTION:节奏跑 5–6 km\n配速 6:45–7:10/km\n心率 85–90%
+SUMMARY:节奏跑（周二）
+DESCRIPTION:距离：5–6km；配速：6:45–7:10/km；心率区间：85–90%
+目标：建立比赛节奏、提升乳酸阈值
+注意事项：稳定呼吸，保持略感吃力但可维持状态
 END:VEVENT
 BEGIN:VEVENT
+UID:20250910@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20250910T180000
 DTEND;TZID=Europe/Berlin:20250910T190000
-SUMMARY:主动恢复
-DESCRIPTION:拉伸 + 泡沫轴 15 分钟\n散步 15–20 分钟
+SUMMARY:主动恢复（周三）
+DESCRIPTION:内容：拉伸、泡沫轴、散步或轻微动态训练
+目标：促进血液循环与神经系统恢复
+注意事项：心率维持在<65%；可配合冥想或深呼吸
 END:VEVENT
 BEGIN:VEVENT
+UID:20250911@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20250911T180000
 DTEND;TZID=Europe/Berlin:20250911T190000
-SUMMARY:力量训练 B（腿部）
-DESCRIPTION:深蹲 4×6\n腿举机 3×10\n小腿提踵 3×15
+SUMMARY:腿部力量训练（周四）
+DESCRIPTION:动作：杠铃深蹲（4×6 @ RIR 1–2）、腿举机（3×10）、硬拉（3×5）、小腿提踵（3×15）
+目标：增强下肢力量与稳定性，为跑步提供动力支持
+重点：训练后静态拉伸，避免第二天延迟性肌肉酸痛
 END:VEVENT
 BEGIN:VEVENT
+UID:20250912@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20250912T180000
 DTEND;TZID=Europe/Berlin:20250912T190000
-SUMMARY:力量训练 C（背部）
-DESCRIPTION:高位下拉 4×6\n杠铃划船 4×8
+SUMMARY:背部力量训练（周五）
+DESCRIPTION:动作：高位下拉（4×6 @ RIR 1–2）、坐姿划船（3×10）、哑铃划船（3×8）、核心卷腹（3×15）
+目标：提升背部肌群与核心稳定，预防跑姿崩溃
+重点：保持肩胛骨收紧，控制动作节奏
 END:VEVENT
 BEGIN:VEVENT
+UID:20250913@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20250913T180000
 DTEND;TZID=Europe/Berlin:20250913T190000
-SUMMARY:完全休息
-DESCRIPTION:
+SUMMARY:完全休息（周六）
+DESCRIPTION:无训练安排
+目标：生理与心理完全恢复
+建议：补充营养、保持良好作息，尽量避免久坐
 END:VEVENT
 BEGIN:VEVENT
+UID:20250914@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20250914T180000
 DTEND;TZID=Europe/Berlin:20250914T190000
-SUMMARY:跑步训练（长距离慢跑）
-DESCRIPTION:长距离慢跑 8–12 km\n配速 7:45–8:15/km\n时间 60–75 分钟
+SUMMARY:LSD长距离慢跑（周日）
+DESCRIPTION:距离：8–12km；配速：7:45–8:15/km；心率区间：65–75%
+目标：构建有氧基础、提升耐力储备
+提示：全程可对话、呼吸轻松，避免冲刺或爬坡
 END:VEVENT
 BEGIN:VEVENT
+UID:20250915@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20250915T180000
 DTEND;TZID=Europe/Berlin:20250915T190000
-SUMMARY:力量训练 A（胸肩）
-DESCRIPTION:卧推 4×6（RIR 1–2）\n哑铃肩推 4×6\n卷腹 3×15\n平板支撑 3×30秒
+SUMMARY:胸肩力量训练（周一）
+DESCRIPTION:动作：卧推（4×6 @ RIR 1–2）、哑铃肩推（3×8）、哑铃侧平举（3×12）、卷腹（3×15）
+目标：增强上肢推力与肩部稳定性
+重点：组间休息60–90秒，训练后拉伸肩胸肌群
 END:VEVENT
 BEGIN:VEVENT
+UID:20250916@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20250916T180000
 DTEND;TZID=Europe/Berlin:20250916T190000
-SUMMARY:跑步训练（节奏跑）
-DESCRIPTION:节奏跑 5–6 km\n配速 6:45–7:10/km\n心率 85–90%
+SUMMARY:节奏跑（周二）
+DESCRIPTION:距离：5–6km；配速：6:45–7:10/km；心率区间：85–90%
+目标：建立比赛节奏、提升乳酸阈值
+注意事项：稳定呼吸，保持略感吃力但可维持状态
 END:VEVENT
 BEGIN:VEVENT
+UID:20250917@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20250917T180000
 DTEND;TZID=Europe/Berlin:20250917T190000
-SUMMARY:主动恢复
-DESCRIPTION:拉伸 + 泡沫轴 15 分钟\n散步 15–20 分钟
+SUMMARY:主动恢复（周三）
+DESCRIPTION:内容：拉伸、泡沫轴、散步或轻微动态训练
+目标：促进血液循环与神经系统恢复
+注意事项：心率维持在<65%；可配合冥想或深呼吸
 END:VEVENT
 BEGIN:VEVENT
+UID:20250918@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20250918T180000
 DTEND;TZID=Europe/Berlin:20250918T190000
-SUMMARY:力量训练 B（腿部）
-DESCRIPTION:深蹲 4×6\n腿举机 3×10\n小腿提踵 3×15
+SUMMARY:腿部力量训练（周四）
+DESCRIPTION:动作：杠铃深蹲（4×6 @ RIR 1–2）、腿举机（3×10）、硬拉（3×5）、小腿提踵（3×15）
+目标：增强下肢力量与稳定性，为跑步提供动力支持
+重点：训练后静态拉伸，避免第二天延迟性肌肉酸痛
 END:VEVENT
 BEGIN:VEVENT
+UID:20250919@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20250919T180000
 DTEND;TZID=Europe/Berlin:20250919T190000
-SUMMARY:力量训练 C（背部）
-DESCRIPTION:高位下拉 4×6\n杠铃划船 4×8
+SUMMARY:背部力量训练（周五）
+DESCRIPTION:动作：高位下拉（4×6 @ RIR 1–2）、坐姿划船（3×10）、哑铃划船（3×8）、核心卷腹（3×15）
+目标：提升背部肌群与核心稳定，预防跑姿崩溃
+重点：保持肩胛骨收紧，控制动作节奏
 END:VEVENT
 BEGIN:VEVENT
+UID:20250920@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20250920T180000
 DTEND;TZID=Europe/Berlin:20250920T190000
-SUMMARY:完全休息
-DESCRIPTION:
+SUMMARY:完全休息（周六）
+DESCRIPTION:无训练安排
+目标：生理与心理完全恢复
+建议：补充营养、保持良好作息，尽量避免久坐
 END:VEVENT
 BEGIN:VEVENT
+UID:20250921@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20250921T180000
 DTEND;TZID=Europe/Berlin:20250921T190000
-SUMMARY:跑步训练（长距离慢跑）
-DESCRIPTION:长距离慢跑 8–12 km\n配速 7:45–8:15/km\n时间 60–75 分钟
+SUMMARY:LSD长距离慢跑（周日）
+DESCRIPTION:距离：8–12km；配速：7:45–8:15/km；心率区间：65–75%
+目标：构建有氧基础、提升耐力储备
+提示：全程可对话、呼吸轻松，避免冲刺或爬坡
 END:VEVENT
 BEGIN:VEVENT
+UID:20250922@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20250922T180000
 DTEND;TZID=Europe/Berlin:20250922T190000
-SUMMARY:力量训练 A（胸肩）
-DESCRIPTION:卧推 4×6（RIR 1–2）\n哑铃肩推 4×6\n卷腹 3×15\n平板支撑 3×30秒
+SUMMARY:胸肩力量训练（周一）
+DESCRIPTION:动作：卧推（4×6 @ RIR 1–2）、哑铃肩推（3×8）、哑铃侧平举（3×12）、卷腹（3×15）
+目标：增强上肢推力与肩部稳定性
+重点：组间休息60–90秒，训练后拉伸肩胸肌群
 END:VEVENT
 BEGIN:VEVENT
+UID:20250923@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20250923T180000
 DTEND;TZID=Europe/Berlin:20250923T190000
-SUMMARY:跑步训练（节奏跑）
-DESCRIPTION:节奏跑 5–6 km\n配速 6:45–7:10/km\n心率 85–90%
+SUMMARY:节奏跑（周二）
+DESCRIPTION:距离：5–6km；配速：6:45–7:10/km；心率区间：85–90%
+目标：建立比赛节奏、提升乳酸阈值
+注意事项：稳定呼吸，保持略感吃力但可维持状态
 END:VEVENT
 BEGIN:VEVENT
+UID:20250924@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20250924T180000
 DTEND;TZID=Europe/Berlin:20250924T190000
-SUMMARY:主动恢复
-DESCRIPTION:拉伸 + 泡沫轴 15 分钟\n散步 15–20 分钟
+SUMMARY:主动恢复（周三）
+DESCRIPTION:内容：拉伸、泡沫轴、散步或轻微动态训练
+目标：促进血液循环与神经系统恢复
+注意事项：心率维持在<65%；可配合冥想或深呼吸
 END:VEVENT
 BEGIN:VEVENT
+UID:20250925@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20250925T180000
 DTEND;TZID=Europe/Berlin:20250925T190000
-SUMMARY:力量训练 B（腿部）
-DESCRIPTION:深蹲 4×6\n腿举机 3×10\n小腿提踵 3×15
+SUMMARY:腿部力量训练（周四）
+DESCRIPTION:动作：杠铃深蹲（4×6 @ RIR 1–2）、腿举机（3×10）、硬拉（3×5）、小腿提踵（3×15）
+目标：增强下肢力量与稳定性，为跑步提供动力支持
+重点：训练后静态拉伸，避免第二天延迟性肌肉酸痛
 END:VEVENT
 BEGIN:VEVENT
+UID:20250926@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20250926T180000
 DTEND;TZID=Europe/Berlin:20250926T190000
-SUMMARY:力量训练 C（背部）
-DESCRIPTION:高位下拉 4×6\n杠铃划船 4×8
+SUMMARY:背部力量训练（周五）
+DESCRIPTION:动作：高位下拉（4×6 @ RIR 1–2）、坐姿划船（3×10）、哑铃划船（3×8）、核心卷腹（3×15）
+目标：提升背部肌群与核心稳定，预防跑姿崩溃
+重点：保持肩胛骨收紧，控制动作节奏
 END:VEVENT
 BEGIN:VEVENT
+UID:20250927@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20250927T180000
 DTEND;TZID=Europe/Berlin:20250927T190000
-SUMMARY:完全休息
-DESCRIPTION:
+SUMMARY:完全休息（周六）
+DESCRIPTION:无训练安排
+目标：生理与心理完全恢复
+建议：补充营养、保持良好作息，尽量避免久坐
 END:VEVENT
 BEGIN:VEVENT
+UID:20250928@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20250928T180000
 DTEND;TZID=Europe/Berlin:20250928T190000
-SUMMARY:跑步训练（长距离慢跑）
-DESCRIPTION:长距离慢跑 8–12 km\n配速 7:45–8:15/km\n时间 60–75 分钟
+SUMMARY:LSD长距离慢跑（周日）
+DESCRIPTION:距离：8–12km；配速：7:45–8:15/km；心率区间：65–75%
+目标：构建有氧基础、提升耐力储备
+提示：全程可对话、呼吸轻松，避免冲刺或爬坡
 END:VEVENT
 BEGIN:VEVENT
+UID:20250929@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20250929T180000
 DTEND;TZID=Europe/Berlin:20250929T190000
-SUMMARY:力量训练 A（胸肩）
-DESCRIPTION:卧推 4×6（RIR 1–2）\n哑铃肩推 4×6\n卷腹 3×15\n平板支撑 3×30秒
+SUMMARY:胸肩力量训练（周一）
+DESCRIPTION:动作：卧推（4×6 @ RIR 1–2）、哑铃肩推（3×8）、哑铃侧平举（3×12）、卷腹（3×15）
+目标：增强上肢推力与肩部稳定性
+重点：组间休息60–90秒，训练后拉伸肩胸肌群
 END:VEVENT
 BEGIN:VEVENT
+UID:20250930@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20250930T180000
 DTEND;TZID=Europe/Berlin:20250930T190000
-SUMMARY:跑步训练（节奏跑）
-DESCRIPTION:节奏跑 5–6 km\n配速 6:45–7:10/km\n心率 85–90%
+SUMMARY:节奏跑（周二）
+DESCRIPTION:距离：5–6km；配速：6:45–7:10/km；心率区间：85–90%
+目标：建立比赛节奏、提升乳酸阈值
+注意事项：稳定呼吸，保持略感吃力但可维持状态
 END:VEVENT
 BEGIN:VEVENT
+UID:20251001@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20251001T180000
 DTEND;TZID=Europe/Berlin:20251001T190000
-SUMMARY:主动恢复
-DESCRIPTION:拉伸 + 泡沫轴 15 分钟\n散步 15–20 分钟
+SUMMARY:主动恢复（周三）
+DESCRIPTION:内容：拉伸、泡沫轴、散步或轻微动态训练
+目标：促进血液循环与神经系统恢复
+注意事项：心率维持在<65%；可配合冥想或深呼吸
 END:VEVENT
 BEGIN:VEVENT
+UID:20251002@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20251002T180000
 DTEND;TZID=Europe/Berlin:20251002T190000
-SUMMARY:力量训练 B（腿部）
-DESCRIPTION:深蹲 4×6\n腿举机 3×10\n小腿提踵 3×15
+SUMMARY:腿部力量训练（周四）
+DESCRIPTION:动作：杠铃深蹲（4×6 @ RIR 1–2）、腿举机（3×10）、硬拉（3×5）、小腿提踵（3×15）
+目标：增强下肢力量与稳定性，为跑步提供动力支持
+重点：训练后静态拉伸，避免第二天延迟性肌肉酸痛
 END:VEVENT
 BEGIN:VEVENT
+UID:20251003@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20251003T180000
 DTEND;TZID=Europe/Berlin:20251003T190000
-SUMMARY:力量训练 C（背部）
-DESCRIPTION:高位下拉 4×6\n杠铃划船 4×8
+SUMMARY:背部力量训练（周五）
+DESCRIPTION:动作：高位下拉（4×6 @ RIR 1–2）、坐姿划船（3×10）、哑铃划船（3×8）、核心卷腹（3×15）
+目标：提升背部肌群与核心稳定，预防跑姿崩溃
+重点：保持肩胛骨收紧，控制动作节奏
 END:VEVENT
 BEGIN:VEVENT
+UID:20251004@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20251004T180000
 DTEND;TZID=Europe/Berlin:20251004T190000
-SUMMARY:完全休息
-DESCRIPTION:
+SUMMARY:完全休息（周六）
+DESCRIPTION:无训练安排
+目标：生理与心理完全恢复
+建议：补充营养、保持良好作息，尽量避免久坐
 END:VEVENT
 BEGIN:VEVENT
+UID:20251005@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20251005T180000
 DTEND;TZID=Europe/Berlin:20251005T190000
-SUMMARY:跑步训练（长距离慢跑）
-DESCRIPTION:长距离慢跑 8–12 km\n配速 7:45–8:15/km\n时间 60–75 分钟
+SUMMARY:LSD长距离慢跑（周日）
+DESCRIPTION:距离：8–12km；配速：7:45–8:15/km；心率区间：65–75%
+目标：构建有氧基础、提升耐力储备
+提示：全程可对话、呼吸轻松，避免冲刺或爬坡
 END:VEVENT
 BEGIN:VEVENT
+UID:20251006@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20251006T180000
 DTEND;TZID=Europe/Berlin:20251006T190000
-SUMMARY:力量训练 A（胸肩）
-DESCRIPTION:卧推 4×6（RIR 1–2）\n哑铃肩推 4×6\n卷腹 3×15\n平板支撑 3×30秒
+SUMMARY:胸肩力量训练（周一）
+DESCRIPTION:动作：卧推（4×6 @ RIR 1–2）、哑铃肩推（3×8）、哑铃侧平举（3×12）、卷腹（3×15）
+目标：增强上肢推力与肩部稳定性
+重点：组间休息60–90秒，训练后拉伸肩胸肌群
 END:VEVENT
 BEGIN:VEVENT
+UID:20251007@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20251007T180000
 DTEND;TZID=Europe/Berlin:20251007T190000
-SUMMARY:跑步训练（节奏跑）
-DESCRIPTION:节奏跑 5–6 km\n配速 6:45–7:10/km\n心率 85–90%
+SUMMARY:节奏跑（周二）
+DESCRIPTION:距离：5–6km；配速：6:45–7:10/km；心率区间：85–90%
+目标：建立比赛节奏、提升乳酸阈值
+注意事项：稳定呼吸，保持略感吃力但可维持状态
 END:VEVENT
 BEGIN:VEVENT
+UID:20251008@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20251008T180000
 DTEND;TZID=Europe/Berlin:20251008T190000
-SUMMARY:主动恢复
-DESCRIPTION:拉伸 + 泡沫轴 15 分钟\n散步 15–20 分钟
+SUMMARY:主动恢复（周三）
+DESCRIPTION:内容：拉伸、泡沫轴、散步或轻微动态训练
+目标：促进血液循环与神经系统恢复
+注意事项：心率维持在<65%；可配合冥想或深呼吸
 END:VEVENT
 BEGIN:VEVENT
+UID:20251009@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20251009T180000
 DTEND;TZID=Europe/Berlin:20251009T190000
-SUMMARY:力量训练 B（腿部）
-DESCRIPTION:深蹲 4×6\n腿举机 3×10\n小腿提踵 3×15
+SUMMARY:腿部力量训练（周四）
+DESCRIPTION:动作：杠铃深蹲（4×6 @ RIR 1–2）、腿举机（3×10）、硬拉（3×5）、小腿提踵（3×15）
+目标：增强下肢力量与稳定性，为跑步提供动力支持
+重点：训练后静态拉伸，避免第二天延迟性肌肉酸痛
 END:VEVENT
 BEGIN:VEVENT
+UID:20251010@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20251010T180000
 DTEND;TZID=Europe/Berlin:20251010T190000
-SUMMARY:力量训练 C（背部）
-DESCRIPTION:高位下拉 4×6\n杠铃划船 4×8
+SUMMARY:背部力量训练（周五）
+DESCRIPTION:动作：高位下拉（4×6 @ RIR 1–2）、坐姿划船（3×10）、哑铃划船（3×8）、核心卷腹（3×15）
+目标：提升背部肌群与核心稳定，预防跑姿崩溃
+重点：保持肩胛骨收紧，控制动作节奏
 END:VEVENT
 BEGIN:VEVENT
+UID:20251011@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20251011T180000
 DTEND;TZID=Europe/Berlin:20251011T190000
-SUMMARY:完全休息
-DESCRIPTION:
+SUMMARY:完全休息（周六）
+DESCRIPTION:无训练安排
+目标：生理与心理完全恢复
+建议：补充营养、保持良好作息，尽量避免久坐
 END:VEVENT
 BEGIN:VEVENT
+UID:20251012@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20251012T180000
 DTEND;TZID=Europe/Berlin:20251012T190000
-SUMMARY:跑步训练（长距离慢跑）
-DESCRIPTION:长距离慢跑 8–12 km\n配速 7:45–8:15/km\n时间 60–75 分钟
+SUMMARY:LSD长距离慢跑（周日）
+DESCRIPTION:距离：8–12km；配速：7:45–8:15/km；心率区间：65–75%
+目标：构建有氧基础、提升耐力储备
+提示：全程可对话、呼吸轻松，避免冲刺或爬坡
 END:VEVENT
 BEGIN:VEVENT
+UID:20251013@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20251013T180000
 DTEND;TZID=Europe/Berlin:20251013T190000
-SUMMARY:力量训练 A（胸肩）
-DESCRIPTION:卧推 4×6（RIR 1–2）\n哑铃肩推 4×6\n卷腹 3×15\n平板支撑 3×30秒
+SUMMARY:胸肩力量训练（周一）
+DESCRIPTION:动作：卧推（4×6 @ RIR 1–2）、哑铃肩推（3×8）、哑铃侧平举（3×12）、卷腹（3×15）
+目标：增强上肢推力与肩部稳定性
+重点：组间休息60–90秒，训练后拉伸肩胸肌群
 END:VEVENT
 BEGIN:VEVENT
+UID:20251014@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20251014T180000
 DTEND;TZID=Europe/Berlin:20251014T190000
-SUMMARY:跑步训练（节奏跑）
-DESCRIPTION:节奏跑 5–6 km\n配速 6:45–7:10/km\n心率 85–90%
+SUMMARY:节奏跑（周二）
+DESCRIPTION:距离：5–6km；配速：6:45–7:10/km；心率区间：85–90%
+目标：建立比赛节奏、提升乳酸阈值
+注意事项：稳定呼吸，保持略感吃力但可维持状态
 END:VEVENT
 BEGIN:VEVENT
+UID:20251015@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20251015T180000
 DTEND;TZID=Europe/Berlin:20251015T190000
-SUMMARY:主动恢复
-DESCRIPTION:拉伸 + 泡沫轴 15 分钟\n散步 15–20 分钟
+SUMMARY:主动恢复（周三）
+DESCRIPTION:内容：拉伸、泡沫轴、散步或轻微动态训练
+目标：促进血液循环与神经系统恢复
+注意事项：心率维持在<65%；可配合冥想或深呼吸
 END:VEVENT
 BEGIN:VEVENT
+UID:20251016@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20251016T180000
 DTEND;TZID=Europe/Berlin:20251016T190000
-SUMMARY:力量训练 B（腿部）
-DESCRIPTION:深蹲 4×6\n腿举机 3×10\n小腿提踵 3×15
+SUMMARY:腿部力量训练（周四）
+DESCRIPTION:动作：杠铃深蹲（4×6 @ RIR 1–2）、腿举机（3×10）、硬拉（3×5）、小腿提踵（3×15）
+目标：增强下肢力量与稳定性，为跑步提供动力支持
+重点：训练后静态拉伸，避免第二天延迟性肌肉酸痛
 END:VEVENT
 BEGIN:VEVENT
+UID:20251017@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20251017T180000
 DTEND;TZID=Europe/Berlin:20251017T190000
-SUMMARY:力量训练 C（背部）
-DESCRIPTION:高位下拉 4×6\n杠铃划船 4×8
+SUMMARY:背部力量训练（周五）
+DESCRIPTION:动作：高位下拉（4×6 @ RIR 1–2）、坐姿划船（3×10）、哑铃划船（3×8）、核心卷腹（3×15）
+目标：提升背部肌群与核心稳定，预防跑姿崩溃
+重点：保持肩胛骨收紧，控制动作节奏
 END:VEVENT
 BEGIN:VEVENT
+UID:20251018@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20251018T180000
 DTEND;TZID=Europe/Berlin:20251018T190000
-SUMMARY:完全休息
-DESCRIPTION:
+SUMMARY:完全休息（周六）
+DESCRIPTION:无训练安排
+目标：生理与心理完全恢复
+建议：补充营养、保持良好作息，尽量避免久坐
 END:VEVENT
 BEGIN:VEVENT
+UID:20251019@training
+DTSTAMP:20250801T154348Z
 DTSTART;TZID=Europe/Berlin:20251019T180000
 DTEND;TZID=Europe/Berlin:20251019T190000
-SUMMARY:跑步训练（长距离慢跑）
-DESCRIPTION:长距离慢跑 8–12 km\n配速 7:45–8:15/km\n时间 60–75 分钟
+SUMMARY:LSD长距离慢跑（周日）
+DESCRIPTION:距离：8–12km；配速：7:45–8:15/km；心率区间：65–75%
+目标：构建有氧基础、提升耐力储备
+提示：全程可对话、呼吸轻松，避免冲刺或爬坡
 END:VEVENT
 END:VCALENDAR
