@@ -24,7 +24,7 @@ BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20250803T180000
 DTEND;TZID=Europe/Berlin:20250803T190000
 SUMMARY:跑步训练（慢距离）
-DESCRIPTION:慢距离跑 45–60 分钟\n心率控制在最大心率 60–70%\n重点：耐力打底，维持呼吸节奏
+DESCRIPTION:长距离慢跑 7 km\n配速 7:45–8:15/km\n预计时间 56 分钟\n心率控制在 65–75%\n目标：提高有氧耐力，准备15km完赛
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20250804T180000
@@ -36,7 +36,7 @@ BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20250805T180000
 DTEND;TZID=Europe/Berlin:20250805T190000
 SUMMARY:跑步训练（节奏或轻松跑）
-DESCRIPTION:轻松跑 30 分钟\n心率维持在最大心率的 65–70%\n配速：可说话为宜\n配合前中香蕉、水分充足
+DESCRIPTION:节奏跑 5–6 km\n配速控制在 6:45–7:10/km\n时间约 35–45 分钟\n心率区间 80–90% HRmax\n目标：逐步适应比赛节奏
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20250806T180000
@@ -66,7 +66,7 @@ BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20250810T180000
 DTEND;TZID=Europe/Berlin:20250810T190000
 SUMMARY:跑步训练（慢距离）
-DESCRIPTION:慢距离跑 45–60 分钟\n心率控制在最大心率 60–70%\n重点：耐力打底，维持呼吸节奏
+DESCRIPTION:长距离慢跑 8 km\n配速 7:45–8:15/km\n预计时间 64 分钟\n心率控制在 65–75%\n目标：提高有氧耐力，准备15km完赛
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20250811T180000
@@ -78,7 +78,7 @@ BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20250812T180000
 DTEND;TZID=Europe/Berlin:20250812T190000
 SUMMARY:跑步训练（节奏或轻松跑）
-DESCRIPTION:轻松跑 30 分钟\n心率维持在最大心率的 65–70%\n配速：可说话为宜\n配合前中香蕉、水分充足
+DESCRIPTION:节奏跑 5–6 km\n配速控制在 6:45–7:10/km\n时间约 35–45 分钟\n心率区间 80–90% HRmax\n目标：逐步适应比赛节奏
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20250813T180000
@@ -108,7 +108,7 @@ BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20250817T180000
 DTEND;TZID=Europe/Berlin:20250817T190000
 SUMMARY:跑步训练（慢距离）
-DESCRIPTION:慢距离跑 45–60 分钟\n心率控制在最大心率 60–70%\n重点：耐力打底，维持呼吸节奏
+DESCRIPTION:长距离慢跑 8 km\n配速 7:45–8:15/km\n预计时间 64 分钟\n心率控制在 65–75%\n目标：提高有氧耐力，准备15km完赛
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20250818T180000
@@ -120,7 +120,7 @@ BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20250819T180000
 DTEND;TZID=Europe/Berlin:20250819T190000
 SUMMARY:跑步训练（节奏或轻松跑）
-DESCRIPTION:轻松跑 30 分钟\n心率维持在最大心率的 65–70%\n配速：可说话为宜\n配合前中香蕉、水分充足
+DESCRIPTION:节奏跑 5–6 km\n配速控制在 6:45–7:10/km\n时间约 35–45 分钟\n心率区间 80–90% HRmax\n目标：逐步适应比赛节奏
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20250820T180000
@@ -150,7 +150,7 @@ BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20250824T180000
 DTEND;TZID=Europe/Berlin:20250824T190000
 SUMMARY:跑步训练（慢距离）
-DESCRIPTION:慢距离跑 45–60 分钟\n心率控制在最大心率 60–70%\n重点：耐力打底，维持呼吸节奏
+DESCRIPTION:长距离慢跑 9 km\n配速 7:45–8:15/km\n预计时间 72 分钟\n心率控制在 65–75%\n目标：提高有氧耐力，准备15km完赛
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20250825T180000
@@ -162,7 +162,7 @@ BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20250826T180000
 DTEND;TZID=Europe/Berlin:20250826T190000
 SUMMARY:跑步训练（节奏或轻松跑）
-DESCRIPTION:轻松跑 30 分钟\n心率维持在最大心率的 65–70%\n配速：可说话为宜\n配合前中香蕉、水分充足
+DESCRIPTION:节奏跑 5–6 km\n配速控制在 6:45–7:10/km\n时间约 35–45 分钟\n心率区间 80–90% HRmax\n目标：逐步适应比赛节奏
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20250827T180000
@@ -192,7 +192,7 @@ BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20250831T180000
 DTEND;TZID=Europe/Berlin:20250831T190000
 SUMMARY:跑步训练（慢距离）
-DESCRIPTION:慢距离跑 45–60 分钟\n心率控制在最大心率 60–70%\n重点：耐力打底，维持呼吸节奏
+DESCRIPTION:长距离慢跑 9 km\n配速 7:45–8:15/km\n预计时间 72 分钟\n心率控制在 65–75%\n目标：提高有氧耐力，准备15km完赛
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20250901T180000
@@ -204,7 +204,7 @@ BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20250902T180000
 DTEND;TZID=Europe/Berlin:20250902T190000
 SUMMARY:跑步训练（节奏或轻松跑）
-DESCRIPTION:轻松跑 30 分钟\n心率维持在最大心率的 65–70%\n配速：可说话为宜\n配合前中香蕉、水分充足
+DESCRIPTION:节奏跑 5–6 km\n配速控制在 6:45–7:10/km\n时间约 35–45 分钟\n心率区间 80–90% HRmax\n目标：逐步适应比赛节奏
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20250903T180000
@@ -234,7 +234,7 @@ BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20250907T180000
 DTEND;TZID=Europe/Berlin:20250907T190000
 SUMMARY:跑步训练（慢距离）
-DESCRIPTION:慢距离跑 45–60 分钟\n心率控制在最大心率 60–70%\n重点：耐力打底，维持呼吸节奏
+DESCRIPTION:长距离慢跑 10 km\n配速 7:45–8:15/km\n预计时间 80 分钟\n心率控制在 65–75%\n目标：提高有氧耐力，准备15km完赛
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20250908T180000
@@ -246,7 +246,7 @@ BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20250909T180000
 DTEND;TZID=Europe/Berlin:20250909T190000
 SUMMARY:跑步训练（节奏或轻松跑）
-DESCRIPTION:轻松跑 30 分钟\n心率维持在最大心率的 65–70%\n配速：可说话为宜\n配合前中香蕉、水分充足
+DESCRIPTION:节奏跑 5–6 km\n配速控制在 6:45–7:10/km\n时间约 35–45 分钟\n心率区间 80–90% HRmax\n目标：逐步适应比赛节奏
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20250910T180000
@@ -276,7 +276,7 @@ BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20250914T180000
 DTEND;TZID=Europe/Berlin:20250914T190000
 SUMMARY:跑步训练（慢距离）
-DESCRIPTION:慢距离跑 45–60 分钟\n心率控制在最大心率 60–70%\n重点：耐力打底，维持呼吸节奏
+DESCRIPTION:长距离慢跑 10 km\n配速 7:45–8:15/km\n预计时间 80 分钟\n心率控制在 65–75%\n目标：提高有氧耐力，准备15km完赛
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20250915T180000
@@ -288,7 +288,7 @@ BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20250916T180000
 DTEND;TZID=Europe/Berlin:20250916T190000
 SUMMARY:跑步训练（节奏或轻松跑）
-DESCRIPTION:轻松跑 30 分钟\n心率维持在最大心率的 65–70%\n配速：可说话为宜\n配合前中香蕉、水分充足
+DESCRIPTION:节奏跑 5–6 km\n配速控制在 6:45–7:10/km\n时间约 35–45 分钟\n心率区间 80–90% HRmax\n目标：逐步适应比赛节奏
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20250917T180000
@@ -318,7 +318,7 @@ BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20250921T180000
 DTEND;TZID=Europe/Berlin:20250921T190000
 SUMMARY:跑步训练（慢距离）
-DESCRIPTION:慢距离跑 45–60 分钟\n心率控制在最大心率 60–70%\n重点：耐力打底，维持呼吸节奏
+DESCRIPTION:长距离慢跑 11 km\n配速 7:45–8:15/km\n预计时间 88 分钟\n心率控制在 65–75%\n目标：提高有氧耐力，准备15km完赛
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20250922T180000
@@ -330,7 +330,7 @@ BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20250923T180000
 DTEND;TZID=Europe/Berlin:20250923T190000
 SUMMARY:跑步训练（节奏或轻松跑）
-DESCRIPTION:轻松跑 30 分钟\n心率维持在最大心率的 65–70%\n配速：可说话为宜\n配合前中香蕉、水分充足
+DESCRIPTION:节奏跑 5–6 km\n配速控制在 6:45–7:10/km\n时间约 35–45 分钟\n心率区间 80–90% HRmax\n目标：逐步适应比赛节奏
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20250924T180000
@@ -360,13 +360,13 @@ BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20250928T180000
 DTEND;TZID=Europe/Berlin:20250928T190000
 SUMMARY:跑步训练（慢距离）
-DESCRIPTION:轻松跑 60 分钟\n配速 7:00–7:30/km\n心率控制区间 60–70%
+DESCRIPTION:长距离慢跑 11 km\n配速 7:45–8:15/km\n预计时间 88 分钟\n心率控制在 65–75%\n目标：提高有氧耐力，准备15km完赛
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20250929T180000
 DTEND;TZID=Europe/Berlin:20250929T190000
 SUMMARY:跑步训练（中强度节奏跑）
-DESCRIPTION:中距离节奏跑 35–45 分钟\n配速接近比赛目标配速\n心率 75–85%\n热身后启动，训练结束后快走 5 分钟
+DESCRIPTION:节奏跑 5–6 km\n配速 6:40–6:55/km\n心率 85–90%\n提升比赛节奏适应能力
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20250930T180000
@@ -384,7 +384,7 @@ BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20251002T180000
 DTEND;TZID=Europe/Berlin:20251002T190000
 SUMMARY:跑步训练（间歇/配速跑）
-DESCRIPTION:间歇跑 4×3 分钟（配速比比赛快）\n中间慢跑恢复 2 分钟\n总时长 35–40 分钟
+DESCRIPTION:间歇跑 4×3分钟（配速 <6:30/km）\n间歇之间慢跑恢复 2 分钟\n总跑量约 4–5 km\n目标：提升心肺能力与节奏控制
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20251003T180000
@@ -402,13 +402,13 @@ BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20251005T180000
 DTEND;TZID=Europe/Berlin:20251005T190000
 SUMMARY:跑步训练（慢距离）
-DESCRIPTION:轻松跑 60 分钟\n配速 7:00–7:30/km\n心率控制区间 60–70%
+DESCRIPTION:长距离慢跑 12 km\n配速 7:45–8:15/km\n预计时间 96 分钟\n心率控制在 65–75%\n目标：提高有氧耐力，准备15km完赛
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20251006T180000
 DTEND;TZID=Europe/Berlin:20251006T190000
 SUMMARY:跑步训练（中强度节奏跑）
-DESCRIPTION:中距离节奏跑 35–45 分钟\n配速接近比赛目标配速\n心率 75–85%\n热身后启动，训练结束后快走 5 分钟
+DESCRIPTION:节奏跑 5–6 km\n配速 6:40–6:55/km\n心率 85–90%\n提升比赛节奏适应能力
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20251007T180000
@@ -426,7 +426,7 @@ BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20251009T180000
 DTEND;TZID=Europe/Berlin:20251009T190000
 SUMMARY:跑步训练（间歇/配速跑）
-DESCRIPTION:间歇跑 4×3 分钟（配速比比赛快）\n中间慢跑恢复 2 分钟\n总时长 35–40 分钟
+DESCRIPTION:间歇跑 4×3分钟（配速 <6:30/km）\n间歇之间慢跑恢复 2 分钟\n总跑量约 4–5 km\n目标：提升心肺能力与节奏控制
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20251010T180000
@@ -444,13 +444,13 @@ BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20251012T180000
 DTEND;TZID=Europe/Berlin:20251012T190000
 SUMMARY:跑步训练（慢距离）
-DESCRIPTION:轻松跑 60 分钟\n配速 7:00–7:30/km\n心率控制区间 60–70%
+DESCRIPTION:长距离慢跑 12 km\n配速 7:45–8:15/km\n预计时间 96 分钟\n心率控制在 65–75%\n目标：提高有氧耐力，准备15km完赛
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20251013T180000
 DTEND;TZID=Europe/Berlin:20251013T190000
 SUMMARY:跑步训练（中强度节奏跑）
-DESCRIPTION:中距离节奏跑 35–45 分钟\n配速接近比赛目标配速\n心率 75–85%\n热身后启动，训练结束后快走 5 分钟
+DESCRIPTION:节奏跑 5–6 km\n配速 6:40–6:55/km\n心率 85–90%\n提升比赛节奏适应能力
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20251014T180000
@@ -468,7 +468,7 @@ BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20251016T180000
 DTEND;TZID=Europe/Berlin:20251016T190000
 SUMMARY:跑步训练（间歇/配速跑）
-DESCRIPTION:间歇跑 4×3 分钟（配速比比赛快）\n中间慢跑恢复 2 分钟\n总时长 35–40 分钟
+DESCRIPTION:间歇跑 4×3分钟（配速 <6:30/km）\n间歇之间慢跑恢复 2 分钟\n总跑量约 4–5 km\n目标：提升心肺能力与节奏控制
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20251017T180000
@@ -486,6 +486,6 @@ BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20251019T180000
 DTEND;TZID=Europe/Berlin:20251019T190000
 SUMMARY:跑步训练（慢距离）
-DESCRIPTION:轻松跑 60 分钟\n配速 7:00–7:30/km\n心率控制区间 60–70%
+DESCRIPTION:长距离慢跑 12 km\n配速 7:45–8:15/km\n预计时间 96 分钟\n心率控制在 65–75%\n目标：提高有氧耐力，准备15km完赛
 END:VEVENT
 END:VCALENDAR
