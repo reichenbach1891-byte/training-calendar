@@ -3,483 +3,507 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:🏋️ 力量训练 C（背+手臂+核心）
+DTSTART;TZID=Europe/Berlin:20250728T180000
+DTEND;TZID=Europe/Berlin:20250728T190000
+SUMMARY:力量训练 A（胸肩）
+DESCRIPTION:卧推 4×6（RIR 1–2）\n哑铃肩推 4×6（10kg）\n哑铃侧平举 3×12（6kg）\n卷腹 3×15\n平板支撑 3×30秒
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20250729T180000
+DTEND;TZID=Europe/Berlin:20250729T190000
+SUMMARY:跑步训练（节奏或轻松跑）
+DESCRIPTION:轻松跑 30 分钟\n心率维持在最大心率的 65–70%\n配速：可说话为宜\n配合前中香蕉、水分充足
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20250730T180000
+DTEND;TZID=Europe/Berlin:20250730T190000
+SUMMARY:主动恢复
+DESCRIPTION:动态拉伸（肩、臀、腿）各 2 组\n泡沫轴放松 10 分钟\n建议散步 15–20 分钟 + 热水澡
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20250731T180000
+DTEND;TZID=Europe/Berlin:20250731T190000
+SUMMARY:力量训练 B（腿部）
+DESCRIPTION:深蹲 4×6（RIR 1–2）\n硬拉 3×5（40kg）\n腿举机 3×10（63kg）\n小腿提踵 3×15
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20250801T180000
 DTEND;TZID=Europe/Berlin:20250801T190000
-DESCRIPTION:高位下拉：4×6（59kg）\n哑铃划船：4×8（12kg/手）\n二头弯举：3×10（8kg/手）\n仰卧卷腹：3×15\n仰卧抬腿：3×15
+SUMMARY:力量训练 C（背部）
+DESCRIPTION:高位下拉 4×6（59kg）\n杠铃划船 4×8\n二头肌弯举 3×10\n背部伸展 2×30秒
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🧘 主动恢复或 💤 完全休息
 DTSTART;TZID=Europe/Berlin:20250802T180000
 DTEND;TZID=Europe/Berlin:20250802T190000
-DESCRIPTION:可选择主动恢复（泡沫轴+快走）或整天完全休息
+SUMMARY:完全休息
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏃 跑步（进阶距离跑）
 DTSTART;TZID=Europe/Berlin:20250803T180000
 DTEND;TZID=Europe/Berlin:20250803T190000
-DESCRIPTION:慢跑5–7km，70–75% HRmax，重在耐力适应
+SUMMARY:跑步训练（慢距离）
+DESCRIPTION:慢距离跑 45–60 分钟\n心率控制在最大心率 60–70%\n重点：耐力打底，维持呼吸节奏
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏋️ 力量训练 A（胸+肩+核心）
 DTSTART;TZID=Europe/Berlin:20250804T180000
 DTEND;TZID=Europe/Berlin:20250804T190000
-DESCRIPTION:卧推：4×6（50kg，RIR 1–2）\n哑铃肩推：4×6（10kg/手）\n哑铃侧平举：3×12（6kg）\n仰卧举腿：3×15\n平板支撑：3×30秒
+SUMMARY:力量训练 A（胸肩）
+DESCRIPTION:卧推 4×6（RIR 1–2）\n哑铃肩推 4×6（10kg）\n哑铃侧平举 3×12（6kg）\n卷腹 3×15\n平板支撑 3×30秒
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏃 跑步（节奏或轻松跑）
 DTSTART;TZID=Europe/Berlin:20250805T180000
 DTEND;TZID=Europe/Berlin:20250805T190000
-DESCRIPTION:慢跑3–5km，60–70% HRmax，呼吸顺畅不憋气
+SUMMARY:跑步训练（节奏或轻松跑）
+DESCRIPTION:轻松跑 30 分钟\n心率维持在最大心率的 65–70%\n配速：可说话为宜\n配合前中香蕉、水分充足
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🧘 主动恢复日
 DTSTART;TZID=Europe/Berlin:20250806T180000
 DTEND;TZID=Europe/Berlin:20250806T190000
-DESCRIPTION:泡沫轴放松10分钟 + 散步30分钟 + 动态拉伸15分钟
+SUMMARY:主动恢复
+DESCRIPTION:动态拉伸（肩、臀、腿）各 2 组\n泡沫轴放松 10 分钟\n建议散步 15–20 分钟 + 热水澡
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🦵 力量训练 B（腿部）
 DTSTART;TZID=Europe/Berlin:20250807T180000
 DTEND;TZID=Europe/Berlin:20250807T190000
-DESCRIPTION:深蹲：4×6（45kg）\n硬拉：3×5（40kg）\n腿举机：3×10（63kg）\n站姿提踵：3×15
+SUMMARY:力量训练 B（腿部）
+DESCRIPTION:深蹲 4×6（RIR 1–2）\n硬拉 3×5（40kg）\n腿举机 3×10（63kg）\n小腿提踵 3×15
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏋️ 力量训练 C（背+手臂+核心）
 DTSTART;TZID=Europe/Berlin:20250808T180000
 DTEND;TZID=Europe/Berlin:20250808T190000
-DESCRIPTION:高位下拉：4×6（59kg）\n哑铃划船：4×8（12kg/手）\n二头弯举：3×10（8kg/手）\n仰卧卷腹：3×15\n仰卧抬腿：3×15
+SUMMARY:力量训练 C（背部）
+DESCRIPTION:高位下拉 4×6（59kg）\n杠铃划船 4×8\n二头肌弯举 3×10\n背部伸展 2×30秒
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🧘 主动恢复或 💤 完全休息
 DTSTART;TZID=Europe/Berlin:20250809T180000
 DTEND;TZID=Europe/Berlin:20250809T190000
-DESCRIPTION:可选择主动恢复（泡沫轴+快走）或整天完全休息
+SUMMARY:完全休息
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏃 跑步（进阶距离跑）
 DTSTART;TZID=Europe/Berlin:20250810T180000
 DTEND;TZID=Europe/Berlin:20250810T190000
-DESCRIPTION:慢跑5–7km，70–75% HRmax，重在耐力适应
+SUMMARY:跑步训练（慢距离）
+DESCRIPTION:慢距离跑 45–60 分钟\n心率控制在最大心率 60–70%\n重点：耐力打底，维持呼吸节奏
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏋️ 力量训练 A（胸+肩+核心）
 DTSTART;TZID=Europe/Berlin:20250811T180000
 DTEND;TZID=Europe/Berlin:20250811T190000
-DESCRIPTION:卧推：4×6（50kg，RIR 1–2）\n哑铃肩推：4×6（10kg/手）\n哑铃侧平举：3×12（6kg）\n仰卧举腿：3×15\n平板支撑：3×30秒
+SUMMARY:力量训练 A（胸肩）
+DESCRIPTION:卧推 4×6（RIR 1–2）\n哑铃肩推 4×6（10kg）\n哑铃侧平举 3×12（6kg）\n卷腹 3×15\n平板支撑 3×30秒
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏃 跑步（节奏或轻松跑）
 DTSTART;TZID=Europe/Berlin:20250812T180000
 DTEND;TZID=Europe/Berlin:20250812T190000
-DESCRIPTION:慢跑3–5km，60–70% HRmax，呼吸顺畅不憋气
+SUMMARY:跑步训练（节奏或轻松跑）
+DESCRIPTION:轻松跑 30 分钟\n心率维持在最大心率的 65–70%\n配速：可说话为宜\n配合前中香蕉、水分充足
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🧘 主动恢复日
 DTSTART;TZID=Europe/Berlin:20250813T180000
 DTEND;TZID=Europe/Berlin:20250813T190000
-DESCRIPTION:泡沫轴放松10分钟 + 散步30分钟 + 动态拉伸15分钟
+SUMMARY:主动恢复
+DESCRIPTION:动态拉伸（肩、臀、腿）各 2 组\n泡沫轴放松 10 分钟\n建议散步 15–20 分钟 + 热水澡
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🦵 力量训练 B（腿部）
 DTSTART;TZID=Europe/Berlin:20250814T180000
 DTEND;TZID=Europe/Berlin:20250814T190000
-DESCRIPTION:深蹲：4×6（45kg）\n硬拉：3×5（40kg）\n腿举机：3×10（63kg）\n站姿提踵：3×15
+SUMMARY:力量训练 B（腿部）
+DESCRIPTION:深蹲 4×6（RIR 1–2）\n硬拉 3×5（40kg）\n腿举机 3×10（63kg）\n小腿提踵 3×15
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏋️ 力量训练 C（背+手臂+核心）
 DTSTART;TZID=Europe/Berlin:20250815T180000
 DTEND;TZID=Europe/Berlin:20250815T190000
-DESCRIPTION:高位下拉：4×6（59kg）\n哑铃划船：4×8（12kg/手）\n二头弯举：3×10（8kg/手）\n仰卧卷腹：3×15\n仰卧抬腿：3×15
+SUMMARY:力量训练 C（背部）
+DESCRIPTION:高位下拉 4×6（59kg）\n杠铃划船 4×8\n二头肌弯举 3×10\n背部伸展 2×30秒
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🧘 主动恢复或 💤 完全休息
 DTSTART;TZID=Europe/Berlin:20250816T180000
 DTEND;TZID=Europe/Berlin:20250816T190000
-DESCRIPTION:可选择主动恢复（泡沫轴+快走）或整天完全休息
+SUMMARY:完全休息
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏃 跑步（进阶距离跑）
 DTSTART;TZID=Europe/Berlin:20250817T180000
 DTEND;TZID=Europe/Berlin:20250817T190000
-DESCRIPTION:慢跑5–7km，70–75% HRmax，重在耐力适应
+SUMMARY:跑步训练（慢距离）
+DESCRIPTION:慢距离跑 45–60 分钟\n心率控制在最大心率 60–70%\n重点：耐力打底，维持呼吸节奏
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏋️ 力量训练 A（胸+肩+核心）
 DTSTART;TZID=Europe/Berlin:20250818T180000
 DTEND;TZID=Europe/Berlin:20250818T190000
-DESCRIPTION:卧推：4×6（50kg，RIR 1–2）\n哑铃肩推：4×6（10kg/手）\n哑铃侧平举：3×12（6kg）\n仰卧举腿：3×15\n平板支撑：3×30秒
+SUMMARY:力量训练 A（胸肩）
+DESCRIPTION:卧推 4×6（RIR 1–2）\n哑铃肩推 4×6（10kg）\n哑铃侧平举 3×12（6kg）\n卷腹 3×15\n平板支撑 3×30秒
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏃 跑步（节奏或轻松跑）
 DTSTART;TZID=Europe/Berlin:20250819T180000
 DTEND;TZID=Europe/Berlin:20250819T190000
-DESCRIPTION:慢跑3–5km，60–70% HRmax，呼吸顺畅不憋气
+SUMMARY:跑步训练（节奏或轻松跑）
+DESCRIPTION:轻松跑 30 分钟\n心率维持在最大心率的 65–70%\n配速：可说话为宜\n配合前中香蕉、水分充足
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🧘 主动恢复日
 DTSTART;TZID=Europe/Berlin:20250820T180000
 DTEND;TZID=Europe/Berlin:20250820T190000
-DESCRIPTION:泡沫轴放松10分钟 + 散步30分钟 + 动态拉伸15分钟
+SUMMARY:主动恢复
+DESCRIPTION:动态拉伸（肩、臀、腿）各 2 组\n泡沫轴放松 10 分钟\n建议散步 15–20 分钟 + 热水澡
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🦵 力量训练 B（腿部）
 DTSTART;TZID=Europe/Berlin:20250821T180000
 DTEND;TZID=Europe/Berlin:20250821T190000
-DESCRIPTION:深蹲：4×6（45kg）\n硬拉：3×5（40kg）\n腿举机：3×10（63kg）\n站姿提踵：3×15
+SUMMARY:力量训练 B（腿部）
+DESCRIPTION:深蹲 4×6（RIR 1–2）\n硬拉 3×5（40kg）\n腿举机 3×10（63kg）\n小腿提踵 3×15
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏋️ 力量训练 C（背+手臂+核心）
 DTSTART;TZID=Europe/Berlin:20250822T180000
 DTEND;TZID=Europe/Berlin:20250822T190000
-DESCRIPTION:高位下拉：4×6（59kg）\n哑铃划船：4×8（12kg/手）\n二头弯举：3×10（8kg/手）\n仰卧卷腹：3×15\n仰卧抬腿：3×15
+SUMMARY:力量训练 C（背部）
+DESCRIPTION:高位下拉 4×6（59kg）\n杠铃划船 4×8\n二头肌弯举 3×10\n背部伸展 2×30秒
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🧘 主动恢复或 💤 完全休息
 DTSTART;TZID=Europe/Berlin:20250823T180000
 DTEND;TZID=Europe/Berlin:20250823T190000
-DESCRIPTION:可选择主动恢复（泡沫轴+快走）或整天完全休息
+SUMMARY:完全休息
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏃 跑步（进阶距离跑）
 DTSTART;TZID=Europe/Berlin:20250824T180000
 DTEND;TZID=Europe/Berlin:20250824T190000
-DESCRIPTION:慢跑5–7km，70–75% HRmax，重在耐力适应
+SUMMARY:跑步训练（慢距离）
+DESCRIPTION:慢距离跑 45–60 分钟\n心率控制在最大心率 60–70%\n重点：耐力打底，维持呼吸节奏
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏋️ 力量训练 A（胸+肩+核心）
 DTSTART;TZID=Europe/Berlin:20250825T180000
 DTEND;TZID=Europe/Berlin:20250825T190000
-DESCRIPTION:卧推：4×6（50kg，RIR 1–2）\n哑铃肩推：4×6（10kg/手）\n哑铃侧平举：3×12（6kg）\n仰卧举腿：3×15\n平板支撑：3×30秒
+SUMMARY:力量训练 A（胸肩）
+DESCRIPTION:卧推 4×6（RIR 1–2）\n哑铃肩推 4×6（10kg）\n哑铃侧平举 3×12（6kg）\n卷腹 3×15\n平板支撑 3×30秒
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏃 跑步（节奏或轻松跑）
 DTSTART;TZID=Europe/Berlin:20250826T180000
 DTEND;TZID=Europe/Berlin:20250826T190000
-DESCRIPTION:慢跑3–5km，60–70% HRmax，呼吸顺畅不憋气
+SUMMARY:跑步训练（节奏或轻松跑）
+DESCRIPTION:轻松跑 30 分钟\n心率维持在最大心率的 65–70%\n配速：可说话为宜\n配合前中香蕉、水分充足
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🧘 主动恢复日
 DTSTART;TZID=Europe/Berlin:20250827T180000
 DTEND;TZID=Europe/Berlin:20250827T190000
-DESCRIPTION:泡沫轴放松10分钟 + 散步30分钟 + 动态拉伸15分钟
+SUMMARY:主动恢复
+DESCRIPTION:动态拉伸（肩、臀、腿）各 2 组\n泡沫轴放松 10 分钟\n建议散步 15–20 分钟 + 热水澡
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🦵 力量训练 B（腿部）
 DTSTART;TZID=Europe/Berlin:20250828T180000
 DTEND;TZID=Europe/Berlin:20250828T190000
-DESCRIPTION:深蹲：4×6（45kg）\n硬拉：3×5（40kg）\n腿举机：3×10（63kg）\n站姿提踵：3×15
+SUMMARY:力量训练 B（腿部）
+DESCRIPTION:深蹲 4×6（RIR 1–2）\n硬拉 3×5（40kg）\n腿举机 3×10（63kg）\n小腿提踵 3×15
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏋️ 力量训练 C（背+手臂+核心）
 DTSTART;TZID=Europe/Berlin:20250829T180000
 DTEND;TZID=Europe/Berlin:20250829T190000
-DESCRIPTION:高位下拉：4×6（59kg）\n哑铃划船：4×8（12kg/手）\n二头弯举：3×10（8kg/手）\n仰卧卷腹：3×15\n仰卧抬腿：3×15
+SUMMARY:力量训练 C（背部）
+DESCRIPTION:高位下拉 4×6（59kg）\n杠铃划船 4×8\n二头肌弯举 3×10\n背部伸展 2×30秒
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🧘 主动恢复或 💤 完全休息
 DTSTART;TZID=Europe/Berlin:20250830T180000
 DTEND;TZID=Europe/Berlin:20250830T190000
-DESCRIPTION:可选择主动恢复（泡沫轴+快走）或整天完全休息
+SUMMARY:完全休息
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏃 跑步（进阶距离跑）
 DTSTART;TZID=Europe/Berlin:20250831T180000
 DTEND;TZID=Europe/Berlin:20250831T190000
-DESCRIPTION:慢跑5–7km，70–75% HRmax，重在耐力适应
+SUMMARY:跑步训练（慢距离）
+DESCRIPTION:慢距离跑 45–60 分钟\n心率控制在最大心率 60–70%\n重点：耐力打底，维持呼吸节奏
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏋️ 力量训练 A（胸+肩+核心）
 DTSTART;TZID=Europe/Berlin:20250901T180000
 DTEND;TZID=Europe/Berlin:20250901T190000
-DESCRIPTION:卧推：4×6（50kg，RIR 1–2）\n哑铃肩推：4×6（10kg/手）\n哑铃侧平举：3×12（6kg）\n仰卧举腿：3×15\n平板支撑：3×30秒
+SUMMARY:力量训练 A（胸肩）
+DESCRIPTION:卧推 4×6（RIR 1–2）\n哑铃肩推 4×6（10kg）\n哑铃侧平举 3×12（6kg）\n卷腹 3×15\n平板支撑 3×30秒
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏃 跑步（节奏或轻松跑）
 DTSTART;TZID=Europe/Berlin:20250902T180000
 DTEND;TZID=Europe/Berlin:20250902T190000
-DESCRIPTION:慢跑3–5km，60–70% HRmax，呼吸顺畅不憋气
+SUMMARY:跑步训练（节奏或轻松跑）
+DESCRIPTION:轻松跑 30 分钟\n心率维持在最大心率的 65–70%\n配速：可说话为宜\n配合前中香蕉、水分充足
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🧘 主动恢复日
 DTSTART;TZID=Europe/Berlin:20250903T180000
 DTEND;TZID=Europe/Berlin:20250903T190000
-DESCRIPTION:泡沫轴放松10分钟 + 散步30分钟 + 动态拉伸15分钟
+SUMMARY:主动恢复
+DESCRIPTION:动态拉伸（肩、臀、腿）各 2 组\n泡沫轴放松 10 分钟\n建议散步 15–20 分钟 + 热水澡
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🦵 力量训练 B（腿部）
 DTSTART;TZID=Europe/Berlin:20250904T180000
 DTEND;TZID=Europe/Berlin:20250904T190000
-DESCRIPTION:深蹲：4×6（45kg）\n硬拉：3×5（40kg）\n腿举机：3×10（63kg）\n站姿提踵：3×15
+SUMMARY:力量训练 B（腿部）
+DESCRIPTION:深蹲 4×6（RIR 1–2）\n硬拉 3×5（40kg）\n腿举机 3×10（63kg）\n小腿提踵 3×15
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏋️ 力量训练 C（背+手臂+核心）
 DTSTART;TZID=Europe/Berlin:20250905T180000
 DTEND;TZID=Europe/Berlin:20250905T190000
-DESCRIPTION:高位下拉：4×6（59kg）\n哑铃划船：4×8（12kg/手）\n二头弯举：3×10（8kg/手）\n仰卧卷腹：3×15\n仰卧抬腿：3×15
+SUMMARY:力量训练 C（背部）
+DESCRIPTION:高位下拉 4×6（59kg）\n杠铃划船 4×8\n二头肌弯举 3×10\n背部伸展 2×30秒
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🧘 主动恢复或 💤 完全休息
 DTSTART;TZID=Europe/Berlin:20250906T180000
 DTEND;TZID=Europe/Berlin:20250906T190000
-DESCRIPTION:可选择主动恢复（泡沫轴+快走）或整天完全休息
+SUMMARY:完全休息
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏃 跑步（进阶距离跑）
 DTSTART;TZID=Europe/Berlin:20250907T180000
 DTEND;TZID=Europe/Berlin:20250907T190000
-DESCRIPTION:慢跑5–7km，70–75% HRmax，重在耐力适应
+SUMMARY:跑步训练（慢距离）
+DESCRIPTION:慢距离跑 45–60 分钟\n心率控制在最大心率 60–70%\n重点：耐力打底，维持呼吸节奏
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏋️ 力量训练 A（胸+肩+核心）
 DTSTART;TZID=Europe/Berlin:20250908T180000
 DTEND;TZID=Europe/Berlin:20250908T190000
-DESCRIPTION:卧推：4×6（50kg，RIR 1–2）\n哑铃肩推：4×6（10kg/手）\n哑铃侧平举：3×12（6kg）\n仰卧举腿：3×15\n平板支撑：3×30秒
+SUMMARY:力量训练 A（胸肩）
+DESCRIPTION:卧推 4×6（RIR 1–2）\n哑铃肩推 4×6（10kg）\n哑铃侧平举 3×12（6kg）\n卷腹 3×15\n平板支撑 3×30秒
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏃 跑步（节奏或轻松跑）
 DTSTART;TZID=Europe/Berlin:20250909T180000
 DTEND;TZID=Europe/Berlin:20250909T190000
-DESCRIPTION:慢跑3–5km，60–70% HRmax，呼吸顺畅不憋气
+SUMMARY:跑步训练（节奏或轻松跑）
+DESCRIPTION:轻松跑 30 分钟\n心率维持在最大心率的 65–70%\n配速：可说话为宜\n配合前中香蕉、水分充足
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🧘 主动恢复日
 DTSTART;TZID=Europe/Berlin:20250910T180000
 DTEND;TZID=Europe/Berlin:20250910T190000
-DESCRIPTION:泡沫轴放松10分钟 + 散步30分钟 + 动态拉伸15分钟
+SUMMARY:主动恢复
+DESCRIPTION:动态拉伸（肩、臀、腿）各 2 组\n泡沫轴放松 10 分钟\n建议散步 15–20 分钟 + 热水澡
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🦵 力量训练 B（腿部）
 DTSTART;TZID=Europe/Berlin:20250911T180000
 DTEND;TZID=Europe/Berlin:20250911T190000
-DESCRIPTION:深蹲：4×6（45kg）\n硬拉：3×5（40kg）\n腿举机：3×10（63kg）\n站姿提踵：3×15
+SUMMARY:力量训练 B（腿部）
+DESCRIPTION:深蹲 4×6（RIR 1–2）\n硬拉 3×5（40kg）\n腿举机 3×10（63kg）\n小腿提踵 3×15
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏋️ 力量训练 C（背+手臂+核心）
 DTSTART;TZID=Europe/Berlin:20250912T180000
 DTEND;TZID=Europe/Berlin:20250912T190000
-DESCRIPTION:高位下拉：4×6（59kg）\n哑铃划船：4×8（12kg/手）\n二头弯举：3×10（8kg/手）\n仰卧卷腹：3×15\n仰卧抬腿：3×15
+SUMMARY:力量训练 C（背部）
+DESCRIPTION:高位下拉 4×6（59kg）\n杠铃划船 4×8\n二头肌弯举 3×10\n背部伸展 2×30秒
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🧘 主动恢复或 💤 完全休息
 DTSTART;TZID=Europe/Berlin:20250913T180000
 DTEND;TZID=Europe/Berlin:20250913T190000
-DESCRIPTION:可选择主动恢复（泡沫轴+快走）或整天完全休息
+SUMMARY:完全休息
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏃 跑步（进阶距离跑）
 DTSTART;TZID=Europe/Berlin:20250914T180000
 DTEND;TZID=Europe/Berlin:20250914T190000
-DESCRIPTION:慢跑5–7km，70–75% HRmax，重在耐力适应
+SUMMARY:跑步训练（慢距离）
+DESCRIPTION:慢距离跑 45–60 分钟\n心率控制在最大心率 60–70%\n重点：耐力打底，维持呼吸节奏
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏋️ 力量训练 A（胸+肩+核心）
 DTSTART;TZID=Europe/Berlin:20250915T180000
 DTEND;TZID=Europe/Berlin:20250915T190000
-DESCRIPTION:卧推：4×6（50kg，RIR 1–2）\n哑铃肩推：4×6（10kg/手）\n哑铃侧平举：3×12（6kg）\n仰卧举腿：3×15\n平板支撑：3×30秒
+SUMMARY:力量训练 A（胸肩）
+DESCRIPTION:卧推 4×6（RIR 1–2）\n哑铃肩推 4×6（10kg）\n哑铃侧平举 3×12（6kg）\n卷腹 3×15\n平板支撑 3×30秒
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏃 跑步（节奏或轻松跑）
 DTSTART;TZID=Europe/Berlin:20250916T180000
 DTEND;TZID=Europe/Berlin:20250916T190000
-DESCRIPTION:慢跑3–5km，60–70% HRmax，呼吸顺畅不憋气
+SUMMARY:跑步训练（节奏或轻松跑）
+DESCRIPTION:轻松跑 30 分钟\n心率维持在最大心率的 65–70%\n配速：可说话为宜\n配合前中香蕉、水分充足
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🧘 主动恢复日
 DTSTART;TZID=Europe/Berlin:20250917T180000
 DTEND;TZID=Europe/Berlin:20250917T190000
-DESCRIPTION:泡沫轴放松10分钟 + 散步30分钟 + 动态拉伸15分钟
+SUMMARY:主动恢复
+DESCRIPTION:动态拉伸（肩、臀、腿）各 2 组\n泡沫轴放松 10 分钟\n建议散步 15–20 分钟 + 热水澡
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🦵 力量训练 B（腿部）
 DTSTART;TZID=Europe/Berlin:20250918T180000
 DTEND;TZID=Europe/Berlin:20250918T190000
-DESCRIPTION:深蹲：4×6（45kg）\n硬拉：3×5（40kg）\n腿举机：3×10（63kg）\n站姿提踵：3×15
+SUMMARY:力量训练 B（腿部）
+DESCRIPTION:深蹲 4×6（RIR 1–2）\n硬拉 3×5（40kg）\n腿举机 3×10（63kg）\n小腿提踵 3×15
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏋️ 力量训练 C（背+手臂+核心）
 DTSTART;TZID=Europe/Berlin:20250919T180000
 DTEND;TZID=Europe/Berlin:20250919T190000
-DESCRIPTION:高位下拉：4×6（59kg）\n哑铃划船：4×8（12kg/手）\n二头弯举：3×10（8kg/手）\n仰卧卷腹：3×15\n仰卧抬腿：3×15
+SUMMARY:力量训练 C（背部）
+DESCRIPTION:高位下拉 4×6（59kg）\n杠铃划船 4×8\n二头肌弯举 3×10\n背部伸展 2×30秒
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🧘 主动恢复或 💤 完全休息
 DTSTART;TZID=Europe/Berlin:20250920T180000
 DTEND;TZID=Europe/Berlin:20250920T190000
-DESCRIPTION:可选择主动恢复（泡沫轴+快走）或整天完全休息
+SUMMARY:完全休息
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏃 跑步（进阶距离跑）
 DTSTART;TZID=Europe/Berlin:20250921T180000
 DTEND;TZID=Europe/Berlin:20250921T190000
-DESCRIPTION:慢跑5–7km，70–75% HRmax，重在耐力适应
+SUMMARY:跑步训练（慢距离）
+DESCRIPTION:慢距离跑 45–60 分钟\n心率控制在最大心率 60–70%\n重点：耐力打底，维持呼吸节奏
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏋️ 力量训练 A（胸+肩+核心）
 DTSTART;TZID=Europe/Berlin:20250922T180000
 DTEND;TZID=Europe/Berlin:20250922T190000
-DESCRIPTION:卧推：4×6（50kg，RIR 1–2）\n哑铃肩推：4×6（10kg/手）\n哑铃侧平举：3×12（6kg）\n仰卧举腿：3×15\n平板支撑：3×30秒
+SUMMARY:力量训练 A（胸肩）
+DESCRIPTION:卧推 4×6（RIR 1–2）\n哑铃肩推 4×6（10kg）\n哑铃侧平举 3×12（6kg）\n卷腹 3×15\n平板支撑 3×30秒
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏃 跑步（节奏或轻松跑）
 DTSTART;TZID=Europe/Berlin:20250923T180000
 DTEND;TZID=Europe/Berlin:20250923T190000
-DESCRIPTION:慢跑3–5km，60–70% HRmax，呼吸顺畅不憋气
+SUMMARY:跑步训练（节奏或轻松跑）
+DESCRIPTION:轻松跑 30 分钟\n心率维持在最大心率的 65–70%\n配速：可说话为宜\n配合前中香蕉、水分充足
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🧘 主动恢复日
 DTSTART;TZID=Europe/Berlin:20250924T180000
 DTEND;TZID=Europe/Berlin:20250924T190000
-DESCRIPTION:泡沫轴放松10分钟 + 散步30分钟 + 动态拉伸15分钟
+SUMMARY:主动恢复
+DESCRIPTION:动态拉伸（肩、臀、腿）各 2 组\n泡沫轴放松 10 分钟\n建议散步 15–20 分钟 + 热水澡
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🦵 力量训练 B（腿部）
 DTSTART;TZID=Europe/Berlin:20250925T180000
 DTEND;TZID=Europe/Berlin:20250925T190000
-DESCRIPTION:深蹲：4×6（45kg）\n硬拉：3×5（40kg）\n腿举机：3×10（63kg）\n站姿提踵：3×15
+SUMMARY:力量训练 B（腿部）
+DESCRIPTION:深蹲 4×6（RIR 1–2）\n硬拉 3×5（40kg）\n腿举机 3×10（63kg）\n小腿提踵 3×15
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏋️ 力量训练 C（背+手臂+核心）
 DTSTART;TZID=Europe/Berlin:20250926T180000
 DTEND;TZID=Europe/Berlin:20250926T190000
-DESCRIPTION:高位下拉：4×6（59kg）\n哑铃划船：4×8（12kg/手）\n二头弯举：3×10（8kg/手）\n仰卧卷腹：3×15\n仰卧抬腿：3×15
+SUMMARY:力量训练 C（背部）
+DESCRIPTION:高位下拉 4×6（59kg）\n杠铃划船 4×8\n二头肌弯举 3×10\n背部伸展 2×30秒
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🧘 主动恢复或 💤 完全休息
 DTSTART;TZID=Europe/Berlin:20250927T180000
 DTEND;TZID=Europe/Berlin:20250927T190000
-DESCRIPTION:可选择主动恢复（泡沫轴+快走）或整天完全休息
+SUMMARY:完全休息
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏃 跑步（进阶距离跑）
 DTSTART;TZID=Europe/Berlin:20250928T180000
 DTEND;TZID=Europe/Berlin:20250928T190000
-DESCRIPTION:慢跑5–7km，70–75% HRmax，重在耐力适应
+SUMMARY:跑步训练（慢距离）
+DESCRIPTION:轻松跑 60 分钟\n配速 7:00–7:30/km\n心率控制区间 60–70%
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏋️ 力量训练 A（轻重量维持）
 DTSTART;TZID=Europe/Berlin:20250929T180000
 DTEND;TZID=Europe/Berlin:20250929T190000
-DESCRIPTION:卧推 4×5（45kg），哑铃肩推 4×5（10kg），核心训练（卷腹、平板）
+SUMMARY:跑步训练（中强度节奏跑）
+DESCRIPTION:中距离节奏跑 35–45 分钟\n配速接近比赛目标配速\n心率 75–85%\n热身后启动，训练结束后快走 5 分钟
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏃 节奏跑 4–5km
 DTSTART;TZID=Europe/Berlin:20250930T180000
 DTEND;TZID=Europe/Berlin:20250930T190000
-DESCRIPTION:节奏跑 4–5km，心率控制在70–75%，呼吸平稳，配速略快于平时
+SUMMARY:主动恢复
+DESCRIPTION:泡沫轴 15 分钟\n拉伸（腿部主导）\n轻柔瑜伽或散步 20 分钟
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🧘 主动恢复日
 DTSTART;TZID=Europe/Berlin:20251001T180000
 DTEND;TZID=Europe/Berlin:20251001T190000
-DESCRIPTION:泡沫轴放松10分钟 + 动态拉伸15分钟 + 散步30分钟
+SUMMARY:力量训练 A（轻量维持）
+DESCRIPTION:卧推 3×6（轻重量）\n哑铃肩推 3×6\n核心卷腹 3×15\n拉伸放松
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏃 间歇跑（如 3×800m）
 DTSTART;TZID=Europe/Berlin:20251002T180000
 DTEND;TZID=Europe/Berlin:20251002T190000
-DESCRIPTION:间歇跑训练：热身1km，主训练为 3×800m 配速跑，中间慢走恢复
+SUMMARY:跑步训练（间歇/配速跑）
+DESCRIPTION:间歇跑 4×3 分钟（配速比比赛快）\n中间慢跑恢复 2 分钟\n总时长 35–40 分钟
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏋️ 力量训练 C（轻重量维持）
 DTSTART;TZID=Europe/Berlin:20251003T180000
 DTEND;TZID=Europe/Berlin:20251003T190000
-DESCRIPTION:高位下拉 3×6，哑铃划船 3×6，卷腹+抬腿组合，轻重量维持
+SUMMARY:主动恢复
+DESCRIPTION:动态拉伸 + 泡沫轴 10 分钟\n低强度骑行或散步 15 分钟
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:💤 完全休息日
 DTSTART;TZID=Europe/Berlin:20251004T180000
 DTEND;TZID=Europe/Berlin:20251004T190000
-DESCRIPTION:完全休息，保持充足睡眠和良好饮食
+SUMMARY:完全休息
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏃 进阶跑 6km
 DTSTART;TZID=Europe/Berlin:20251005T180000
 DTEND;TZID=Europe/Berlin:20251005T190000
-DESCRIPTION:进阶长距离慢跑 6km，心率控制70%，注意跑姿稳定
+SUMMARY:跑步训练（慢距离）
+DESCRIPTION:轻松跑 60 分钟\n配速 7:00–7:30/km\n心率控制区间 60–70%
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏃 轻松慢跑 5km
 DTSTART;TZID=Europe/Berlin:20251006T180000
 DTEND;TZID=Europe/Berlin:20251006T190000
-DESCRIPTION:轻松慢跑 5km，配速放缓，呼吸顺畅
+SUMMARY:跑步训练（中强度节奏跑）
+DESCRIPTION:中距离节奏跑 35–45 分钟\n配速接近比赛目标配速\n心率 75–85%\n热身后启动，训练结束后快走 5 分钟
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏋️ 力量训练 A（核心+肩推）
 DTSTART;TZID=Europe/Berlin:20251007T180000
 DTEND;TZID=Europe/Berlin:20251007T190000
-DESCRIPTION:核心 + 哑铃肩推训练，3×10，轻重量维持神经激活
+SUMMARY:主动恢复
+DESCRIPTION:泡沫轴 15 分钟\n拉伸（腿部主导）\n轻柔瑜伽或散步 20 分钟
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🧘 主动恢复日
 DTSTART;TZID=Europe/Berlin:20251008T180000
 DTEND;TZID=Europe/Berlin:20251008T190000
-DESCRIPTION:泡沫轴 + 拉伸，全身放松，低强度活动
+SUMMARY:力量训练 A（轻量维持）
+DESCRIPTION:卧推 3×6（轻重量）\n哑铃肩推 3×6\n核心卷腹 3×15\n拉伸放松
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏃 模拟赛跑 7–8km
 DTSTART;TZID=Europe/Berlin:20251009T180000
 DTEND;TZID=Europe/Berlin:20251009T190000
-DESCRIPTION:模拟比赛跑 7–8km，控制节奏，全程稳定输出
+SUMMARY:跑步训练（间歇/配速跑）
+DESCRIPTION:间歇跑 4×3 分钟（配速比比赛快）\n中间慢跑恢复 2 分钟\n总时长 35–40 分钟
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:💤 完全休息日
 DTSTART;TZID=Europe/Berlin:20251010T180000
 DTEND;TZID=Europe/Berlin:20251010T190000
-DESCRIPTION:完全休息，远离训练，专注饮食和睡眠
+SUMMARY:主动恢复
+DESCRIPTION:动态拉伸 + 泡沫轴 10 分钟\n低强度骑行或散步 15 分钟
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🧘 主动恢复日
 DTSTART;TZID=Europe/Berlin:20251011T180000
 DTEND;TZID=Europe/Berlin:20251011T190000
-DESCRIPTION:主动恢复：15分钟走路 + 泡沫轴 + 冥想呼吸
+SUMMARY:完全休息
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏃 慢跑 4km
 DTSTART;TZID=Europe/Berlin:20251012T180000
 DTEND;TZID=Europe/Berlin:20251012T190000
-DESCRIPTION:慢跑 4km，低强度，身体激活但不疲劳
+SUMMARY:跑步训练（慢距离）
+DESCRIPTION:轻松跑 60 分钟\n配速 7:00–7:30/km\n心率控制区间 60–70%
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏃 激活跑 3km
 DTSTART;TZID=Europe/Berlin:20251013T180000
 DTEND;TZID=Europe/Berlin:20251013T190000
-DESCRIPTION:激活跑 3km，穿比赛鞋，热身后保持轻快节奏
+SUMMARY:跑步训练（中强度节奏跑）
+DESCRIPTION:中距离节奏跑 35–45 分钟\n配速接近比赛目标配速\n心率 75–85%\n热身后启动，训练结束后快走 5 分钟
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🧘 主动恢复日
 DTSTART;TZID=Europe/Berlin:20251014T180000
 DTEND;TZID=Europe/Berlin:20251014T190000
-DESCRIPTION:主动恢复日，拉伸+泡沫轴+快走，维持状态
+SUMMARY:主动恢复
+DESCRIPTION:泡沫轴 15 分钟\n拉伸（腿部主导）\n轻柔瑜伽或散步 20 分钟
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏃 热身 + 加速跑（20分钟）
 DTSTART;TZID=Europe/Berlin:20251015T180000
 DTEND;TZID=Europe/Berlin:20251015T190000
-DESCRIPTION:热身 + 加速跑：慢跑1km后做 3×20秒加速跑
+SUMMARY:力量训练 A（轻量维持）
+DESCRIPTION:卧推 3×6（轻重量）\n哑铃肩推 3×6\n核心卷腹 3×15\n拉伸放松
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:💤 完全休息日
 DTSTART;TZID=Europe/Berlin:20251016T180000
 DTEND;TZID=Europe/Berlin:20251016T190000
-DESCRIPTION:完全休息，避免剧烈运动
+SUMMARY:跑步训练（间歇/配速跑）
+DESCRIPTION:间歇跑 4×3 分钟（配速比比赛快）\n中间慢跑恢复 2 分钟\n总时长 35–40 分钟
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🧘 深度放松 + 暖身
 DTSTART;TZID=Europe/Berlin:20251017T180000
 DTEND;TZID=Europe/Berlin:20251017T190000
-DESCRIPTION:深度放松 + 热水澡 + 动态拉伸，轻度活动即可
+SUMMARY:主动恢复
+DESCRIPTION:动态拉伸 + 泡沫轴 10 分钟\n低强度骑行或散步 15 分钟
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:💤 完全休息日（比赛前）
 DTSTART;TZID=Europe/Berlin:20251018T180000
 DTEND;TZID=Europe/Berlin:20251018T190000
-DESCRIPTION:完全休息，准备迎接比赛
+SUMMARY:完全休息
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏁 比赛日
 DTSTART;TZID=Europe/Berlin:20251019T180000
 DTEND;TZID=Europe/Berlin:20251019T190000
-DESCRIPTION:比赛日！提前热身15分钟，全力发挥！
+SUMMARY:跑步训练（慢距离）
+DESCRIPTION:轻松跑 60 分钟\n配速 7:00–7:30/km\n心率控制区间 60–70%
 END:VEVENT
 END:VCALENDAR
