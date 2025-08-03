@@ -66,12 +66,12 @@ SUMMARY:胸肩力量训练（周一）
 DESCRIPTION:动作：\n- 卧推：4×6（建议起始重量 45kg，每周+2.5kg）\n- 哑铃肩推：3×8（起始重量 10kg）\n- 哑铃侧平举：3×12（起始重量 6kg）\n- 卷腹：3×15（从第13个开始吃力）\n训练目标：增强上肢推力与肩部稳定性\n重点提示：RIR 1–2，组间休息60–90秒，训练后拉伸胸肩
 END:VEVENT
 BEGIN:VEVENT
-UID:20250805@training
-DTSTAMP:20250803T190032Z
+UID:20250805@training-tempo
+DTSTAMP:20250803T215627Z
 DTSTART;TZID=Europe/Berlin:20250805T180000
 DTEND;TZID=Europe/Berlin:20250805T190000
 SUMMARY:节奏跑（周二）
-DESCRIPTION:第2周：距离：5–6 km；配速：6:50–7:00/km；心率：85–90%\n训练目标：建立比赛节奏\n注意事项：略感吃力但可维持
+DESCRIPTION:第2周：距离：4–5 km；配速：7:30–7:45/km；心率：<85%\n训练目标：恢复节奏感，控制心率不过高\n提示：保持轻松跑，略感呼吸加快但能说话
 END:VEVENT
 BEGIN:VEVENT
 UID:20250806@training
@@ -106,12 +106,12 @@ SUMMARY:完全休息（周六）
 DESCRIPTION:无训练安排\n目标：生理与心理完全恢复\n建议：补充营养、保持良好作息
 END:VEVENT
 BEGIN:VEVENT
-UID:20250810@training
-DTSTAMP:20250803T190032Z
+UID:20250810@training-lsd
+DTSTAMP:20250803T215627Z
 DTSTART;TZID=Europe/Berlin:20250810T180000
 DTEND;TZID=Europe/Berlin:20250810T190000
 SUMMARY:LSD长距离慢跑（周日）
-DESCRIPTION:第2周：距离：7 km；配速：7:45–8:15/km；心率：65–75%\n训练目标：构建有氧基础、提升耐力\n提示：全程可对话
+DESCRIPTION:第2周：距离：6 km；配速：8:30/km 起步，或跑走结合（2:1）\n训练目标：恢复有氧状态，建立节奏与信心\n提示：每跑2分钟快走1分钟，控制在心率<150
 END:VEVENT
 BEGIN:VEVENT
 UID:20250811@training
